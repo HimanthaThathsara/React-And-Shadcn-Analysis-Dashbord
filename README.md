@@ -16,7 +16,7 @@
 </pre>
 </div>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>A responsive analytics dashboard built with React and shadcn/ui.</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/HimanthaThathsara/React-And-Shadcn-Analysis-Dashbord?style=default&logo=opensourceinitiative&logoColor=white&color=ffffff" alt="license">
